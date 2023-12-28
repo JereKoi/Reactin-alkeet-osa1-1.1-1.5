@@ -1,4 +1,6 @@
-# React + Vite
+# Helsingin yliopisto fullstack-kurssi tehtävät 1.1-1.5
+
+Tässä hakemistossa on tehtävät 1.1-1.5
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
